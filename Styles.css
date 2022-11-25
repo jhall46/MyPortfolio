@@ -1,5 +1,5 @@
 body {
-    background-color: gray;
+    background-color: white;
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -27,4 +27,17 @@ body {
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
+}
+img {
+  float: left;
+  width: 400px;
+  height: 500px;
+}
+p {
+  font-size: 20px;
+  color: black;
+  text-align: justify;
+}
+h1, h2 {
+  text-align: center;
 }

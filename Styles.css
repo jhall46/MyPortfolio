@@ -38,6 +38,16 @@ p {
   color: black;
   text-align: justify;
 }
-h1, h2 {
+h1, footer {
   text-align: center;
+  background: lightblue;
+  padding: 20px;
+}
+/*
+ --------contact.html---------
+*/
+address {
+  /*border: 5px solid black;*/
+  background: lightblue;
+  font-size: 20px;
 }
